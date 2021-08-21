@@ -1,0 +1,5 @@
+flutter.run
+flutter.dev.quit
+flutter.dev.hotRestart
+flutter.attach
+flutter.dev.openDevLog

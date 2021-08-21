@@ -1,0 +1,14 @@
+clear lock
+clear control
+
+! Make Control_L = Control_L
+keycode 37 = Control_L
+
+! Make Caps_Lock = Control_L
+keycode 66 = Control_L
+
+! Make Control_R = Caps_Lock
+keycode 105 = Caps_Lock
+
+add control = Control_L Control_R
+add lock = Caps_Lock

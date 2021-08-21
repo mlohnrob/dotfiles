@@ -1,0 +1,23 @@
+yay -S android-studio
+yay -S arm-linux-gnueabihf-gcc
+yay -S arm-linux-gnueabihf-gcc-stage2
+yay -S arm-linux-gnueabihf-gcc-stage1
+yay -S arm-linux-gnueabihf-glibc
+yay -S arm-linux-gnueabihf-glibc-headers
+yay -S arm-linux-gnueabihf-binutils
+yay -S spotify
+yay -S flameshot-git
+yay -S pip3
+yay -S chia-gui-git
+yay -S glib
+yay -S -f glib
+yay -S pulseaudio-modules-bt-git
+yay -S gef-git
+yay -S get-git
+yay -S cutter-git
+yay -S radare2-cutter-ghidra
+yay -S teams-insiders
+yay -S vscodium-git
+yay -S fzf-git
+yay -S polybar-git
+yay -S autotiling
