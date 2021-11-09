@@ -1,0 +1,15 @@
+2021/11/02-11:12:45.343 5 Reusing MANIFEST /home/mlohnrob/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2021/11/02-11:12:45.345 5 Recovering log #76
+2021/11/02-11:12:45.345 5 Reusing old log /home/mlohnrob/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000076.log 
+2021/11/02-11:12:54.420 3 Level-0 table #80: started
+2021/11/02-11:12:54.469 3 Level-0 table #80: 11264 bytes OK
+2021/11/02-11:12:54.503 3 Delete type=0 #76
+2021/11/02-11:12:54.504 3 Compacting 4@0 + 1@1 files
+2021/11/02-11:12:54.626 3 Generated table #81@0: 2125 keys, 45677 bytes
+2021/11/02-11:12:54.626 3 Compacted 4@0 + 1@1 files => 45677 bytes
+2021/11/02-11:12:54.659 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/11/02-11:12:54.660 3 Delete type=2 #77
+2021/11/02-11:12:54.660 3 Delete type=2 #74
+2021/11/02-11:12:54.660 3 Delete type=2 #71
+2021/11/02-11:12:54.661 3 Delete type=2 #68
+2021/11/02-11:12:54.661 3 Delete type=2 #80

@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/mlohnrob/dev/smart_mirror/src'
+let g:netrw_dirhist_9='/home/mlohnrob/dev/smart_mirror/src/fltk_impl'
+let g:netrw_dirhist_8='/home/mlohnrob/dev/smart_mirror/src'
+let g:netrw_dirhist_7='/etc'
+let g:netrw_dirhist_6='/home/mlohnrob/.config/i3'
+let g:netrw_dirhist_5='/home/mlohnrob/dev/qsik/lib/ui/views/joinParty'
+let g:netrw_dirhist_4='/home/mlohnrob/dev/qsik/lib/services'
+let g:netrw_dirhist_3='/home/mlohnrob/dev/qsik/lib'
+let g:netrw_dirhist_2='/home/mlohnrob/dev/qsik/lib/ui'
+let g:netrw_dirhist_1='/home/mlohnrob/dev/qsik/lib/ui/views'

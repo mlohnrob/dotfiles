@@ -1,0 +1,18 @@
+sudo pacman -S libreoffice-fresh
+sudo pacman -S cmatrix
+sudo pacman -S man
+sudo pacman -S pavucontrol
+sudo pacman -S pulseaudio
+sudo pacman -S wifi-menu
+sudo pacman -S unzip
+sudo pacman -S virt-manager virt-viewer qemu vde2 ebtables dnsmasq bridge-utils openbsd-netcat
+sudo pacman -S openssh
+sudo pacman -S exa
+sudo pacman -S fzf
+sudo pacman -S zathura
+sudo pacman -S zathura-pdf-mupdf
+sudo pacman -S xorg-xmodmap
+pacman -S grub efibootmgr os-prober
+pacman -S lightdm-gtk-greeter
+pacman -S alacritty
+pacman -S dmenu

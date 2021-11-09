@@ -1,0 +1,7 @@
+2021/11/02-11:45:02.484 58cc Recovering log #3
+2021/11/02-11:45:02.636 58cc Level-0 table #5: started
+2021/11/02-11:45:02.736 58cc Level-0 table #5: 2784294 bytes OK
+2021/11/02-11:45:02.739 58cc Recovering log #11
+2021/11/02-11:45:02.804 58cc Delete type=0 #3
+2021/11/02-11:45:02.804 58cc Delete type=3 #2
+2021/11/02-11:45:02.804 58cc Delete type=0 #11
